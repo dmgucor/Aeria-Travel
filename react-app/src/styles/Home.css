@@ -1,0 +1,55 @@
+.intro-container{
+    margin: 50px auto;
+    padding: 20px 150px;
+}
+
+.main-greeting{
+    font-family: 'Source Serif Pro', serif;
+    margin: auto auto;
+    padding: 0px;
+    line-height: 0.6;
+    text-align: center;
+    font-weight: 700;
+}
+
+.upper-row{
+    font-size: 8em;
+    letter-spacing: 10px;
+}
+
+.bottom-row{
+    font-size: 5em;
+    letter-spacing: 7px;
+}
+
+.desc-panel{
+    background-color: rgba(62,46,103,0.2);
+    padding: 4em 4em 2em 4em;
+    font-family: 'Barlow', sans-serif; 
+    font-weight: 300;
+    font-size: 14pt;
+}
+
+.bt-container{
+    text-align: right;
+}
+
+.bt-more{
+    border: 1px;
+    border-style: solid;
+    border-color: #FFB732;
+    background-color: #ffdfa4;
+    color: #cc9228;
+    margin-top: 2em;
+    font-family: 'Montserrat', sans-serif;
+}
+
+Button:hover {
+    border-color: #FFB732 !important;
+    background-color: #FFB732 !important;
+    color: #cc7228 !important;
+}
+
+.info-panel{
+    background-color: rgba(62,46,103,0.2); 
+}

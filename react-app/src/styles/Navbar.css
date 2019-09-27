@@ -1,0 +1,9 @@
+.navbar {
+    font-family: 'Libre Baskerville', sans-serif !important;
+    background-color: #343a40;
+}
+
+.nav-link{
+    color: gray !important;
+    margin: auto 1em;
+}
